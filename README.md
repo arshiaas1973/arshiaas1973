@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arshiaas1973
 - 👀 I’m interested in programming and watching anime
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: instagram.com/scarywwolf.
 
