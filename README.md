@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @arshiaas1973
-- 👀 I’m interested in programming and watching anime
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on ...?
+- 👋 Hi, I’m Arshia Esmailzadeh
+- I have been programming for 5 or 6 years
+- I have been using Linux for 2 or 3 years
+- I have been daily driving linux for almost 2 year
+- I'm 18 years old.
+- I'm currently looking for a job
 
 # I work on ...
 ## Programming Languages
@@ -32,9 +34,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-<!---
-arshiaas1973/arshiaas1973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## OSes
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Lineage OS](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+#### Planned to use
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+
+## Code editors
+![Visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
+
+## Web browsers
+![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 [![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiaas1973)](https://github.com/anuraghazra/github-readme-stats)
